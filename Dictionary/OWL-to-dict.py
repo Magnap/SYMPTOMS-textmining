@@ -32,3 +32,9 @@ for symp in onto_symps.classes():
 
 for symp in symps.values():
     symp.parents = {symp_internal_ids[p] for p in symp.parents}
+
+# For convenience while developing
+symp_by_name = {}
+for symp in symps.values():
+    for name in symp.names:
+        symp_by_name[name] = symp
