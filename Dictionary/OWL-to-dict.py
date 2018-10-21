@@ -13,6 +13,7 @@ class Symptom():
         self.other_ids = onto_symp.hasDbXref
 
 symps = {}
+symp_internal_ids = {}
 
 # TODO tackle alternative IDs (hasAlternativeId)
 
@@ -24,4 +25,10 @@ for symp in onto_symps.classes():
             print("Warning: symptom",symp.name,"is missing a SYMP id, creating one automatically", file=sys.stderr)
             symp.id = ['SYMP:' + symp.name[5:]]
         symps[curr_id] = Symptom(curr_id, symp)
+
+        symp_internal_ids[symp] = curr_id
+
         curr_id = curr_id + 1
+
+for symp in symps.values():
+    symp.parents = {symp_internal_ids[p] for p in symp.parents}
