@@ -9,7 +9,7 @@ class Symptom():
         self.internal_id = internal_id
         self.symp_id = onto_symp.id[0]
         self.names = onto_symp.label + onto_symp.hasExactSynonym + symp.hasRelatedSynonym
-        self.parents = onto_symp.ancestors() - {onto_symp}
+        self.parents = onto_symp.ancestors() - {onto_symp, o.owl.Thing}
         self.other_ids = onto_symp.hasDbXref
 
 symps = {}
