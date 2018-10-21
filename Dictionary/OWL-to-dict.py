@@ -1,8 +1,17 @@
 import owlready2 as o
 import sys
+import os
 
 onto_symps = o.get_ontology("file://symp.owl")
 onto_symps.load()
+
+dict_dir = "./symptoms_dictionary"
+if not os.path.exists(dict_dir):
+    os.mkdir(dict_dir)
+else:
+    sys.exit("Disease dictionary directory already exists,\
+    aborting to avoid overwriting existing dictionary")
+os.chdir(dict_dir)
 
 class Symptom():
     def __init__(self, internal_id, onto_symp):
@@ -38,3 +47,22 @@ symp_by_name = {}
 for symp in symps.values():
     for name in symp.names:
         symp_by_name[name] = symp
+
+with open('symptoms_entities.tsv','a') as entities_file, \
+     open('symptoms_groups.tsv','a') as groups_file, \
+     open('symptoms_global.tsv','a') as global_file, \
+     open('symptoms_names.tsv','a') as names_file:
+    for symp in symps.values():
+        for name in symp.names:
+            if len(name) <= 3:
+                # Don't ignore symptom names 3 chars or less
+                global_file.write(name + "\t" + "f\n")
+        for identifier in symp.names + symp.other_ids + [symp.symp_id]:
+            names_file.write(str(symp.internal_id) + "\t" + identifier + "\n")
+        for parent in symp.parents:
+            groups_file.write(str(symp.internal_id) + "\t" + str(parent) + "\n")
+        entities_file.write(
+            str(symp.internal_id) + "\t" +
+            "-37" + "\t" + # DISCUSS which magic number for symptoms?
+            symp.symp_id + "\n") # Canonical ID
+
