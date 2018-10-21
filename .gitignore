@@ -7,3 +7,5 @@ project.fls
 project.log
 project.out
 project.toc
+
+pyvenv/
