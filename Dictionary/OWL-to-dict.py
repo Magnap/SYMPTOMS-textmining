@@ -29,7 +29,7 @@ symp_internal_ids = {}
 # TODO find out the proper pattern for ids
 curr_id = 0
 for symp in onto_symps.classes():
-    if not symp.deprecated: # DISCUSS should we include deprecated symptoms?
+    if not symp.deprecated:
         if not symp.id:
             print("Warning: symptom",symp.name,"is missing a SYMP id, creating one automatically", file=sys.stderr)
             symp.id = ['SYMP:' + symp.name[5:]]
