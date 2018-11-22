@@ -26,8 +26,7 @@ symp_internal_ids = {}
 
 # TODO tackle alternative IDs (hasAlternativeId)
 
-# TODO find out the proper pattern for ids
-curr_id = 0
+curr_id = 1017000001
 for symp in onto_symps.classes():
     if not symp.deprecated:
         if not symp.id:
