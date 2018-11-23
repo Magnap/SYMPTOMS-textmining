@@ -1,0 +1,3188 @@
+5-methylcytosine	f
+ABDOMEN	f
+ADHD	f
+AIDS	f
+ALD	t
+ALDEHYDE	t
+ALS	t
+ANAPLASMA PHAGOCYTOPHILUM	f
+ANOPHELES GAMBIAE	f
+ANXIETY	t
+APL	t
+APPLICATION	t
+ARDS	f
+ARS	t
+ARTS	t
+ARs	t
+ASM	t
+ATS	t
+AV block	t
+Abdo- men	f
+Abdomen	f
+Acari	f
+Acne	f
+Actinomyces	f
+Acute Myocardial Infarction	f
+Acute myocardial infarction	f
+Acute pancreatitis	f
+Addison's disease	f
+Adem	t
+Adenocarcinoma	f
+Adipose tissue	f
+Ahl	t
+Aids	f
+Alanine	f
+Alcohol	t
+Alcohol Abuse	f
+Alcoholism	f
+Aldehyde	t
+Alexia	t
+Allergic	t
+Allergic contact dermatitis	f
+Allergy	f
+Als	t
+Alzheimer disease	t
+Alzheimer s Disease	f
+Alzheimer s disease	f
+Alzheimer's Disease	t
+Alzheimer's disease	f
+Amide	t
+Amine	t
+Amino Acid	t
+Amino acid	t
+Amino-Acid	t
+Amino-acid	t
+Ammonia	f
+Amyloidosis	f
+Amyotrophic lateral sclerosis	f
+Anaemia	f
+Analgesia	f
+Anaplasma phagocytophilum	f
+Anemia	f
+Anopheles gambiae	f
+Anorexia nervosa	f
+Anxiety	t
+Aorta	f
+Aortic Valve	f
+Aortic valve	f
+Appendicitis	f
+Arachnida	f
+Arginine	f
+Aria	t
+Arnd	t
+Artery	f
+Arthritis	f
+Arthropoda	f
+Articulation	f
+Arts	t
+Ascaris	f
+Ascites	f
+Aspartic acid	f
+Aspergillus	f
+Aspiration	f
+Asthma	f
+Astrocyte	f
+Ataxia	t
+Atherosclerosis	f
+Atopic dermatitis	f
+Atrial Fibrillation	f
+Atrial fibrillation	f
+Autism	f
+Autism Spectrum Disorder	f
+Aves	f
+B Cell	f
+B cell	f
+B cell lymphoma	f
+B-Cell	f
+B-cell	f
+B-cell lymphoma	f
+BAC	t
+BACILLUS ANTHRACIS	f
+BARTONELLA HENSELAE	f
+BARTONELLA QUINTANA	f
+BASE	t
+BEARD	t
+BLOOD	f
+BORDETELLA PARAPERTUSSIS	f
+BORDETELLA PERTUSSIS	f
+BOS TAURUS	f
+BRAIN	f
+BRUCELLA ABORTUS	f
+BRUCELLA MELITENSIS	f
+BRUCELLA SUIS	f
+BURKHOLDERIA MALLEI	f
+BURKHOLDERIA PSEUDOMALLEI	f
+Bac	t
+Bacilli	f
+Bacillus anthracis	f
+Bacteria	f
+Barrett's esophagus	f
+Bartonella	f
+Bartonella henselae	f
+Bartonella quintana	f
+Base	t
+Beard	t
+Behcet's disease	f
+Bell's palsy	f
+Beta-thalassemia	f
+Bipolar disorder	f
+Bladder cancer	f
+Bleeding	f
+Blindness	f
+Blood	t
+Boil	t
+Bone Marrow	f
+Bone marrow	f
+Boop	t
+Bor	t
+Bordetella parapertussis	f
+Bordetella pertussis	f
+Borrelia	f
+Bos	t
+Bos taurus	f
+Brain	f
+Brainstem	f
+Breast	f
+Breast Cancer	f
+Breast cancer	f
+Brucella	f
+Brucella abortus	f
+Brucella melitensis	f
+Brucella suis	f
+Brucellosis	f
+Brugada syndrome	f
+Budd-Chiari syndrome	f
+Burkholderia mallei	f
+Burkholderia pseudomallei	f
+Burkitt lymphoma	f
+Burkitt s lymphoma	f
+Burkitt's lymphoma	f
+CAMPYLOBACTER JEJUNI	f
+CAN	t
+CANCER	f
+CAP	t
+CAPRA	t
+CARCINOMA	f
+CBA	t
+CCM	t
+CDS	t
+CELL	t
+CENTRAL NERVOUS SYSTEM	f
+CEREBRAL CORTEX	f
+CFS	f
+CGD	t
+CHD	t
+CHF	t
+CHLAMYDIA TRACHOMATIS	f
+CHROMOSOME	t
+CHS	f
+CJD	t
+CKD	f
+CLL	t
+CLOSTRIDIUM PERFRINGENS	f
+CLOSTRIDIUM TETANI	f
+CML	t
+COLD	t
+CON	t
+CONFUSION	t
+CONTACT	t
+COPD	t
+CORNEA	f
+CORTEX	t
+CORYNEBACTERIUM DIPHTHERIAE	f
+COXIELLA BURNETII	f
+CRE	t
+CRF	f
+CRM	t
+CRUSTACEA	f
+CVA	t
+CaN	t
+Campylobacter	f
+Campylobacter jejuni	f
+Can	t
+Can-	t
+Cancer	f
+Cap	t
+Capillary	f
+Capra	t
+Carbamazepine	f
+Carcinoma	f
+Cardiac arrest	f
+Cardiomyopathy	t
+Cataract	f
+Celiac disease	f
+Cell	t
+Central Nervous System	f
+Central nervous system	f
+Cephalosporin	t
+Cerebellum	f
+Cerebral cortex	f
+Cervical Cancer	f
+Cervical cancer	f
+Chagas disease	f
+Chagas' disease	f
+Charcot-Marie-Tooth disease	f
+Chlamydia	f
+Chlamydia pneumoniae	f
+Chlamydia trachomatis	f
+Cholera	f
+Chromosome	t
+Chronic Kidney Disease	f
+Chronic Obstructive Pulmonary Disease	f
+Chronic kidney disease	f
+Chronic obstructive pulmonary disease	f
+Cirrhosis	f
+Citrus	f
+Clip	t
+Clone	t
+Clostridium	f
+Clostridium botulinum	f
+Clostridium perfringens	f
+Clostridium tetani	f
+Codon	t
+Cold	t
+Colitis	f
+Colon	t
+Colon cancer	f
+Colorectal Cancer	f
+Colorectal cancer	f
+Coma	t
+Con	t
+Confusion	t
+Congenital	f
+Congestive heart failure	f
+Constipation	f
+Contact	t
+Cornea	t
+Coronary Artery	f
+Coronary Artery Disease	f
+Coronary artery	f
+Coronary artery disease	f
+Coronary heart disease	f
+Cortex	t
+Corynebacterium	f
+Corynebacterium diphtheriae	f
+Coxiella burnetii	f
+CpG island	f
+Crabs	f
+Cramp	t
+Cre	t
+Creutzfeldt-Jakob disease	t
+Crohn disease	f
+Crohn s disease	f
+Crohn's Disease	f
+Crohn's disease	f
+Crustacea	f
+Cryptic	t
+Cryptosporidium	f
+Culicidae	f
+Cure	t
+Cushing s syndrome	f
+Cushing's disease	f
+Cushing's syndrome	f
+Cyclophosphamide	f
+Cyprinus carpio	f
+Cysteine	t
+Cystic Fibrosis	f
+Cystic fibrosis	f
+D N A	t
+DANIO RERIO	f
+DCE	t
+DHF	t
+DIABETES	f
+DIC	t
+DIRECT	t
+DISEASE	f
+DISH	t
+DNA	t
+DON	t
+DOUBLE	t
+DRE	t
+DSS	t
+DUCT	f
+Danio rerio	f
+Dass	t
+Deafness	t
+Decapoda	f
+Dehydration	f
+Delirium	f
+Dementia	f
+Dendritic cell	f
+Dengue virus	f
+Dental caries	f
+Depression	f
+Diabetes	f
+Diabetes Mellitus	f
+Diabetes mellitus	f
+Diabetic Retinopathy	f
+Diabetic retinopathy	f
+Diaphragm	f
+Diarrhea	f
+Digestive system	f
+Diphtheria	f
+Diptera	f
+Direct	t
+Disease	f
+Dish	t
+Don	t
+Double	t
+Down s syndrome	f
+Down syndrome	f
+Down's syndrome	f
+Drug	t
+Duchenne muscular dystrophy	f
+Duct	f
+Dyslipidemia	f
+Dysphagia	f
+Dyspnea	f
+EAR	t
+ENCEPHALITOZOON CUNICULI	f
+EPITHELIUM	f
+ERS	t
+ERs	t
+ESOPHAGUS	f
+EST	t
+EYE	t
+Ear	t
+Eating Disorder	f
+Ebola virus	f
+Echinococcus granulosus	f
+Edema	f
+Edited	t
+Ehlers-Danlos syndrome	f
+Encephalitozoon cuniculi	f
+Endocarditis	f
+Endoderm	f
+Endometriosis	f
+Endothelial Cell	f
+Endothelial cell	f
+Entamoeba histolytica	f
+Enterobacteriaceae	f
+Eosinophil	f
+Epidermal cell	f
+Epilepsy	f
+Epithelial cell	f
+Epithelium	f
+Epp	t
+Erectile dysfunction	f
+Esophagus	f
+Ess	t
+Est	t
+Ester	t
+Ether	t
+Ewing sarcoma	f
+Eye	t
+FACE	t
+FAINT	t
+FDD	t
+FEVER	t
+FLU	t
+FOREIGN	t
+FORWARD	t
+FRANCISELLA TULARENSIS	f
+FRE	t
+FREE	t
+FSGS	t
+FUNGI	f
+Fabry disease	f
+Face	t
+Fahn	t
+Faint	t
+Fanconi anemia	f
+Fatigue	f
+Favus	t
+Fibromyalgia	f
+Firmicutes	f
+Flaviviridae	f
+Flavivirus	t
+Flu	t
+Foraminifera	f
+Formaldehyde	f
+Forward	t
+Francisella tularensis	f
+Free	t
+Fungi	f
+Fusion	t
+GALLUS GALLUS	f
+GANGLION	f
+GAP	t
+GBM	f
+GDM	t
+GERD	f
+GI bleeding	f
+GIST	f
+GLAND	f
+GPS	t
+GPs	t
+GROUP	t
+GS1	t
+GS2	t
+GaP	t
+Gallbladder	f
+Gallus	t
+Gallus gallus	f
+Gamete	f
+Gammaproteobacteria	f
+Ganglion	f
+Gant	t
+Gap	t
+Gastric Cancer	f
+Gastric cancer	f
+Gastropoda	f
+Gaucher disease	f
+Gene	t
+Gerd	t
+Germ Cell	f
+Germ cell	f
+Germ-cell	f
+Giardia	f
+Gist	t
+Gland	f
+Glaucoma	f
+Glial cell	f
+Glioblastoma multiforme	f
+Glutamic acid	f
+Glutamine	f
+Glycine	f
+Gonad	f
+Gout	t
+Granulocyte	f
+Grave's disease	f
+Graves disease	f
+Graves' disease	f
+Group	t
+Guillain-Barre syndrome	f
+HAEMOPHILUS DUCREYI	f
+HCC	t
+HDL2	t
+HEAD	t
+HEART	f
+HHS	t
+HIV Infection	f
+HIV infection	f
+HPS	t
+HSE	t
+HTN	f
+HTS	t
+Haemophilus	f
+Haemophilus ducreyi	f
+Hane	t
+Hashimoto's thyroiditis	f
+Head	t
+Heart	f
+Heart Disease	f
+Heart Failure	f
+Heart disease	f
+Heart failure	f
+Hematoma	f
+Hemolysis	f
+Hemorrhage	f
+Hepatitis	f
+Hepatitis B	f
+Hepatitis B virus	f
+Hepatitis C	f
+Hepatocellular Carcinoma	f
+Hepatocellular carcinoma	f
+Hepatocyte	f
+Herpes simplex	f
+High Blood Pressure	f
+Hirschsprung's disease	f
+Hodgkin lymphoma	f
+Hodgkin s lymphoma	f
+Hodgkin's lymphoma	f
+Homologous	t
+Human Immunodeficiency Virus	f
+Human immunodeficiency virus	f
+Huntington disease	f
+Huntington s disease	f
+Huntington's chorea	f
+Huntington's disease	f
+Hydrocephalus	f
+Hyperactivity	f
+Hypercalcemia	f
+Hyperglycemia	f
+Hypersensitivity	t
+Hypertension	f
+Hyperthyroidism	f
+Hypoglycemia	f
+Hyponatremia	f
+Hypotension	f
+Hypothermia	f
+Hypothyroidism	f
+IBD	t
+ICP	t
+IDDM	f
+IEL	t
+ILD	f
+ILEUM	f
+IPF	t
+IRIS	t
+ISM	t
+IgA nephropathy	f
+Ileum	f
+Infectious Disease	f
+Infertility	f
+Inflammation	f
+Inflammatory Bowel Disease	f
+Inflammatory bowel disease	f
+Influenza	f
+Insecta	f
+Insertion	t
+Insomnia	f
+Intestine	f
+Intron	t
+Ion	t
+Iris	t
+Ischemia	f
+Ixodes ricinus	f
+Ixodidae	f
+Japanese encephalitis	f
+Japanese encephalitis virus	f
+Jaundice	f
+KCS	t
+KIDNEY	t
+Kaposi s sarcoma	f
+Kaposi sarcoma	f
+Kaposi's sarcoma	f
+Kawasaki disease	f
+Keratinocyte	f
+Kidney	f
+Kidney Disease	f
+Klebsiella	f
+Klebsiella pneumoniae	f
+Kms	t
+Kuru	t
+L Ca	t
+LCA	f
+LCM	t
+LEGIONELLA PNEUMOPHILA	f
+LIP	t
+LISTERIA MONOCYTOGENES	f
+LIVER	f
+LNA	t
+LORD	t
+LPI	t
+Lactone	t
+Lamin A	f
+Lamina	f
+Langerhans cell histiocytosis	f
+Larynx	f
+Legionella	f
+Legionella pneumophila	f
+Legionnaires' disease	f
+Leiomyosarcoma	f
+Leishmaniasis	f
+Lems	t
+Lentivirus	f
+Leprosy	f
+Leptospira	f
+Leptospirosis	f
+Leucine	f
+Leukemia	f
+Leukocyte	f
+Li P	t
+Lidocaine	f
+Limb	t
+Lip	t
+Lipid	t
+Listeria	f
+Listeria monocytogenes	f
+Liver	f
+Liver Cancer	f
+Liver Disease	f
+Lord	t
+Lung	t
+Lung Cancer	f
+Lung Disease	f
+Lung cancer	f
+Lupus	f
+Lyme borreliosis	f
+Lyme disease	f
+Lymph	f
+Lymph Node	f
+Lymph node	f
+Lymphocyte	f
+Lymphoma	f
+Lynch syndrome	f
+Lysine	f
+MALT lymphoma	f
+MANDIBLE	f
+MARCH	t
+MATCH	t
+MCD	t
+MCS	t
+MCs	t
+MDS	t
+MEC	t
+MFH	t
+MLD	t
+MNV	t
+MOLLUSCA	f
+MOR	f
+MST	t
+MUS MUSCULUS	f
+MYCOBACTERIUM LEPRAE	f
+MYCOBACTERIUM TUBERCULOSIS	f
+MYCOPLASMA PNEUMONIAE	f
+Macrophage	t
+Major Depressive Disorder	f
+Major depressive disorder	f
+Malaise	t
+Malaria	f
+Malignant melanoma	f
+Mammalia	f
+Mandible	f
+Manus	t
+March	t
+Marfan syndrome	t
+Mast cell	f
+Match	t
+McD	t
+Measles	f
+Meckel's diverticulum	f
+Melanoma	f
+Meniere's disease	f
+Meningitis	f
+Merkel cell carcinoma	f
+Mesoderm	f
+Metabolic Syndrome	f
+Metabolic syndrome	f
+Methionine	f
+Migraine	f
+Mirna	t
+Mitochondrial DNA	f
+Mixture	t
+Mody	t
+Mollusca	f
+Mor	t
+Motor neuron	f
+Mouth	f
+Multiple Sclerosis	f
+Multiple myeloma	f
+Multiple sclerosis	f
+Mus musculus	f
+Muscle cell	f
+Muscular Dystrophy	f
+Myasthenia gravis	f
+Mycobacterium	f
+Mycobacterium leprae	f
+Mycobacterium tuberculosis	f
+Mycoplasma	f
+Mycoplasma pneumoniae	f
+Myocardial Infarction	f
+Myocardial infarction	f
+Myocardium	f
+NATURAL	t
+NECK	t
+NEISSERIA GONORRHOEAE	f
+NEORICKETTSIA SENNETSU	f
+NERVE	f
+NERVOUS SYSTEM	f
+NEURON	f
+NIDDM	f
+NOSE	t
+NS1	f
+NS3	f
+NSCLC	f
+Nail	t
+Nausea	f
+Neck	t
+Necrosis	f
+Neisseria	f
+Neisseria gonorrhoeae	f
+Nematoda	f
+Neorickettsia sennetsu	f
+Nephropathy	f
+Nerve	f
+Nervous System	f
+Nervous system	f
+Neuroblastoma	f
+Neuron	f
+Neuropathy	f
+Neurotoxicity	f
+Neutropenia	f
+Nocardia	f
+Noma	t
+Nonalcoholic fatty liver disease	f
+Nose	t
+Nucleic acid	f
+O CD	t
+OCD	f
+ORF	t
+OVARY	f
+Oas	t
+Obesity	f
+Obstructive sleep apnea	f
+Oncorhynchus mykiss	f
+Orf	t
+Organ	t
+Orit	t
+Orphan	t
+Osteoarthritis	f
+Osteomyelitis	f
+Osteoporosis	f
+Osteosarcoma	f
+Ovarian Cancer	f
+Ovarian cancer	f
+Ovary	t
+PAIN	t
+PASTEURELLA MULTOCIDA	f
+PCA	t
+PCB	t
+PCH	t
+PCL	t
+PCOS	f
+PCa	t
+PCl	t
+PDD	t
+PDR	t
+PECORA	t
+PES	t
+PID	t
+PIT	f
+PKU	t
+PLASMODIUM FALCIPARUM	f
+PME	t
+PNA	t
+POLYPEPTIDE	t
+PREDICTED	t
+PSS	t
+PURPURA	t
+Paget's disease	f
+Pain	t
+Palladium	f
+Pancreas	f
+Pancreatic cancer	f
+Pancreatitis	f
+Paralysis	f
+Parkinson disease	t
+Parkinson s Disease	f
+Parkinson s disease	f
+Parkinson's Disease	f
+Parkinson's disease	f
+Pasteurella multocida	f
+Patella	t
+Pecora	t
+Penicillin	f
+Penis	f
+Periodontitis	f
+Peripheral nervous system	f
+Peritonitis	f
+Pertussis	f
+Pes	t
+Pharynx	f
+Phenytoin	f
+Pheochromocytoma	f
+Piedra	t
+Pinna	t
+Pit	f
+Placenta	f
+Placental	f
+Plasmid	t
+Plasmodium	f
+Plasmodium falciparum	f
+Plasmodium falciparum malaria	f
+Plasmodium vivax	f
+Platelet	f
+Pleural effusion	f
+Pneumocystis carinii pneumonia	f
+Pneumonia	f
+Pneumothorax	f
+Poaceae	f
+Poliomyelitis	f
+Polyamine	t
+Polycystic ovary syndrome	f
+Polypeptide	t
+Prader-Willi syndrome	f
+Predicted	t
+Preeclampsia	f
+Primer	t
+Probe	t
+Proline	t
+Prostate Cancer	f
+Prostate cancer	f
+Proteinuria	f
+Proteobacteria	f
+Prunus	f
+Psoriasis	f
+Pulmonary artery	f
+Pulmonary embolism	f
+Pulmonary hypertension	f
+Purpura	t
+Pylorus	f
+Q fever	f
+RAPD	t
+RATTUS NORVEGICUS	f
+RCC	t
+READ	t
+RECTUM	f
+REGION	t
+REMARK	t
+RETINA	f
+RICKETTSIA CONORII	f
+RICKETTSIA FELIS	f
+RICKETTSIA PROWAZEKII	f
+RICKETTSIA TYPHI	f
+RNA	t
+RP11	f
+RRMS	t
+RRs	t
+RSS	t
+RST	t
+RTS	t
+RTs	t
+Rabies	t
+Rash	t
+Rattus norvegicus	f
+Read	t
+Rectum	f
+Region	t
+Regulon	t
+Remark	t
+Renal cell carcinoma	f
+Renal failure	f
+Retina	f
+Retinoblastoma	f
+Rett syndrome	f
+Rheumatoid Arthritis	f
+Rheumatoid arthritis	f
+Rickettsia	f
+Rickettsia conorii	f
+Rickettsia felis	f
+Rickettsia prowazekii	f
+Rickettsia typhi	f
+Rodentia	f
+Role	t
+Rosaceae	f
+Rosales	t
+Rubella	f
+SAC	t
+SALMONELLA ENTERICA	f
+SALT	t
+SCH	t
+SCID	t
+SCORE	t
+SERINE	t
+SHIGELLA BOYDII	f
+SHIGELLA DYSENTERIAE	f
+SHIGELLA FLEXNERI	f
+SHIGELLA SONNEI	f
+SHOCK	t
+SIDS	t
+SINGLE	t
+SNP	t
+SNV	t
+SOD	t
+SPERM	f
+SRS	t
+STAPHYLOCOCCUS AUREUS	f
+STATUS	t
+STOMACH	f
+STREPTOCOCCUS PNEUMONIAE	f
+STREPTOCOCCUS PYOGENES	f
+SYNDROME	f
+Sac	t
+Salmo	f
+Salmo salar	f
+Salmonella	f
+Salmonella enterica	f
+Salmonella infection	f
+Salt	t
+Sarcoidosis	f
+Sarcoma	f
+Scalp	f
+Sch	t
+Schistosoma	f
+Schistosomiasis	f
+Schizophrenia	f
+Scoliosis	f
+Score	t
+Sega	t
+Seizures	f
+Seminal vesicle	f
+Senda	t
+Sepsis	f
+Serine	t
+Shigella	f
+Shigella boydii	f
+Shigella dysenteriae	f
+Shigella flexneri	f
+Shigella sonnei	f
+Shock	t
+Signal peptide	t
+Simplex virus	f
+Single	t
+Sjogren s syndrome	f
+Sjogren's syndrome	f
+Skull	f
+Solanaceae	f
+Solanum	f
+Solanum lycopersicum	f
+Somatic Cell	f
+Somatic cell	f
+Sperm	f
+Spinal Cord	f
+Spinal cord	f
+Spleen	f
+Sputum	f
+Squamous cell carcinoma	f
+Staphylococcus	f
+Staphylococcus aureus	f
+Status	t
+Stem Cell	f
+Stem cell	f
+Stem-cell	f
+Steroid	t
+Stevens-Johnson syndrome	f
+Stomach	f
+Streptococcus	f
+Streptococcus pneumoniae	f
+Streptococcus pyogenes	f
+Stroke	f
+Substance Abuse	f
+Syncope	f
+Syndrome	f
+Syphilis	f
+Systemic Lupus Erythematosus	f
+Systemic lupus erythematosus	f
+T Cell	f
+T cell	f
+T-Ag	t
+T-CELL 	t
+T-Cell	f
+T-ag	t
+T-cell	f
+T-cell leukemia	f
+TAG	t
+TAM	t
+TAg	t
+TESTIS	f
+THIS	t
+TIA	t
+TISSUE	t
+TMD	t
+TRACHEA	f
+TREPONEMA PALLIDUM	f
+TSS	t
+TUBERCULOSIS	f
+Tag	t
+Tam	t
+Tandem	t
+Tcell	f
+Teleostei	f
+Telomere	f
+Terminator	t
+Terra	t
+Testis	f
+Tetanus	f
+This	t
+Throat	f
+Thrombocytopenia	f
+Thrombosis	f
+Thrush	t
+Tia	t
+Tinnitus	f
+Tissue	t
+Tongue	t
+Toxoplasma	f
+Toxoplasma gondii	f
+Toxoplasmosis	f
+Trachea	f
+Translocation	t
+Treponema pallidum	f
+Trichinella	f
+Trichomonas vaginalis	f
+Trypanosoma	f
+Trypanosoma cruzi	f
+Tube	t
+Tuberculosis	f
+Turner syndrome	f
+Type 2 Diabetes Mellitus	f
+Type 2 diabetes mellitus	f
+URETER	f
+UTERUS	f
+UTR	t
+Ulcerative colitis	f
+Ureter	f
+Urinary incontinence	f
+Uterus	f
+Uveitis	f
+VAGINA	f
+VESSEL	t
+VIBRIO CHOLERAE	f
+Vaccinia virus	f
+Vagina	f
+Vasculitis	f
+Vein	t
+Vessel	f
+Vibrio	f
+Vibrio cholerae	f
+Viruses	f
+Vomiting	f
+WEAKNESS	t
+Weakness	t
+Wee	t
+Weight loss	f
+West Nile virus	f
+Wild type	t
+Wild-Type	t
+Wild-type	t
+Wildtype	t
+Wilms tumor	f
+Wilms' tumor	f
+Wilson's disease	f
+Wolff-Parkinson-White syndrome	f
+XPD	f
+YAC	t
+YERSINIA PESTIS	f
+Yaba	t
+Yersinia pestis	f
+aPL	t
+ab- domen	f
+abacavir	f
+abdo- men	f
+abdomen	f
+abdominal aortic aneurysm	f
+abdominal pain	f
+abnormal behavior	f
+abortion	f
+abscess	f
+acetylsalicylic acid	f
+achalasia	f
+acid reflux	f
+acidosis	f
+acne	t
+acne vulgaris	f
+acoustic neuroma	f
+acquired immune deficiency syndrome	f
+acquired immunodeficiency syndrome	f
+acromegaly	f
+actinomycosis	f
+acute appendicitis	f
+acute cholecystitis	f
+acute diarrhea	f
+acute hepatitis	f
+acute leukemia	f
+acute lymphoblastic leukemia	f
+acute lymphocytic leukemia	f
+acute myeloblastic leukemia	f
+acute myelogenous leukemia	f
+acute myeloid leukemia	f
+acute myocardial infarction	f
+acute pancreatitis	f
+acute promyelocytic leukemia	f
+acute respiratory failure	f
+acute tubular necrosis	f
+adenocarcinoma	f
+adenocarcinomas	f
+adenoid cystic carcinoma	f
+adenoma	f
+adenomas	f
+adenomyosis	f
+adenopathy	f
+adipose tissue	f
+adrenal cortex	f
+adrenal gland	f
+adrenal medulla	f
+adult T-cell leukemia	f
+adult respiratory distress syndrome	f
+age-related macular degeneration	f
+aggressive behavior	f
+agoraphobia	f
+agranulocytosis	f
+aids	t
+al s	t
+alanine	f
+alcohol	t
+alcohol abuse	f
+alcohol dependence	f
+alcohol use disorder	f
+alcoholic cirrhosis	f
+alcoholic fatty liver	f
+alcoholic hepatitis	f
+alcoholism	f
+aldehyde	t
+alexithymia	f
+allele	f
+allergic	f
+allergic asthma	f
+allergic contact dermatitis	f
+allergic disease	f
+allergic rhinitis	f
+allergy	f
+allodynia	f
+alopecia	f
+alopecia areata	f
+als	t
+alveolitis	f
+alveolus	f
+am- monia	f
+amblyopia	f
+amebiasis	f
+ameloblastoma	f
+amenorrhea	f
+amide	t
+amine	t
+amino acid	t
+amino-acid	t
+ammonia	f
+ammonium ion	f
+amnesia	f
+amoxicillin	f
+amyloidosis	f
+amyotrophic lateral sclerosis	f
+anaemia	f
+anal canal	f
+analgesia	f
+anaplasma phagocytophilum	f
+anaplastic astrocytoma	f
+anaplastic large cell lymphoma	f
+anatomical space	f
+anatomical structure	f
+anemia	f
+angioedema	f
+angiosarcoma	f
+ankylosing spondylitis	f
+ankylosis	f
+anopheles gambiae	f
+anorexia nervosa	f
+anovulation	f
+anterior uveitis	f
+anticodon	t
+antiphospholipid syndrome	f
+antisense	f
+antisocial personality disorder	f
+anuria	f
+anus	f
+anxiety	t
+anxiety disorder	f
+aorta	f
+aortic aneurysm	f
+aortic insufficiency	f
+aortic regurgitation	f
+aortic stenosis	f
+aortic valve	f
+aortic valve disease	f
+aortic valve stenosis	f
+aphasia	f
+aplastic anemia	f
+apnea	f
+appendage	f
+appendicitis	f
+application	t
+apraxia	f
+ards	t
+arginine	f
+aria	t
+aromatic carboxylic acid	f
+ars	t
+arterial occlusive disease	f
+arteriosclerosis	f
+arteriovenous malformation	f
+artery	f
+arthritis	f
+arthropathy	f
+articulation	f
+arts	t
+ascending colon	f
+ascites	f
+aseptic meningitis	f
+asm	t
+asparagine	f
+aspartic acid	f
+aspergillosis	f
+aspiration	f
+aspiration pneumonia	f
+asthma	f
+astigmatism	f
+astrocyte	f
+astrocytoma	f
+ataxia	t
+ataxia telangiectasia	f
+atherosclerosis	f
+atom	t
+atopic dermatitis	f
+atopic eczema	f
+atrial fibrillation	f
+atrial septal defect	f
+atrioventricular block	f
+atrophic gastritis	f
+attention deficit hyperactivity disorder	f
+attention-deficit hyperactivity disorder	f
+auditory system	f
+autism	f
+autism spectrum disorder	f
+autoimmune disease	f
+autoimmune disorder	f
+autoimmune hemolytic anemia	f
+autoimmune hepatitis	f
+autoimmune thyroiditis	f
+autonomic nervous system	f
+autonomic neuropathy	f
+autosomal dominant disorder	f
+autosomal dominant polycystic kidney disease	f
+autosomal recessive disease	f
+autosomal recessive disorder	f
+avian influenza	f
+azole	t
+azoospermia	f
+aztreonam	f
+bac- teria	f
+bacilli	f
+bacillus anthracis	f
+bacteria	f
+bacterial meningitis	f
+bacterial pneumonia	f
+bacterial vaginosis	f
+bacteriuria	f
+bartonella henselae	f
+bartonella quintana	f
+basal cell	f
+basal cell carcinoma	f
+base	t
+base-pair	t
+basophil	f
+benzoic acid	f
+benzylpenicillin	f
+beta-thalassemia	f
+bile duct	f
+biliary atresia	f
+bipolar depression	f
+bipolar disorder	f
+bladder cancer	f
+bladder carcinoma	f
+bleeding	f
+blindness	f
+blister	f
+bloating	f
+blood	f
+blood cell	f
+blood vessel	f
+blood-vessel	f
+blurred vision	f
+bodily fluid	f
+boil	f
+bone cancer	f
+bone disease	f
+bone marrow	f
+bone-marrow	f
+borderline personality disorder	f
+bordetella parapertussis	f
+bordetella pertussis	f
+bos taurus	f
+botulism	f
+bovine spongiform encephalopathy	f
+bradycardia	f
+bradykinesia	f
+brain	f
+brain atrophy	f
+brain cancer	f
+brain disease	f
+brain edema	f
+brain infarction	f
+brain ischemia	f
+brain stem	f
+brain-stem	f
+brainstem	f
+breast	f
+breast adenocarcinoma	f
+breast cancer	f
+breast carcinoma	f
+breast disease	f
+breast tumor	f
+bronchiectasis	f
+bronchiolitis	f
+bronchiolitis obliterans	f
+bronchitis	f
+bronchopneumonia	f
+bronchospasm	f
+bronchus	f
+brucella abortus	f
+brucella melitensis	f
+brucella suis	f
+brucellosis	f
+buccal mucosa	f
+bulimia nervosa	f
+bullous pemphigoid	f
+burkholderia mallei	f
+burkholderia pseudomallei	f
+bursitis	f
+cDNA	t
+cDNA clone	t
+ca n	t
+cachexia	f
+caecum	f
+calcinosis	f
+campylobacter jejuni	f
+can	t
+can-	t
+can- cer	f
+cancer	f
+candidiasis	f
+cap	t
+capillary	f
+carbamazepine	f
+carbohydrate	f
+carboxamide	t
+carboxylic acid	f
+carcinoma	f
+carcinosarcoma	f
+cardiac arrest	f
+cardiac tamponade	f
+cardiomyopathies	f
+cardiomyopathy	f
+cardiovascular system	f
+carotid artery stenosis	f
+carotid body	f
+carotid stenosis	f
+carpal tunnel syndrome	f
+cataract	f
+cation	t
+cavernous hemangioma	f
+cds	t
+cefaclor	f
+cefixime	f
+cefotaxime	f
+ceftazidime	f
+ceftriaxone	f
+cefuroxime	f
+celiac disease	f
+cell	t
+cellulitis	f
+central nervous system	f
+central-nervous-system	f
+centromere	f
+cephalosporin	t
+cerebellar ataxia	f
+cerebellum	f
+cerebral amyloid angiopathy	f
+cerebral artery	f
+cerebral artery occlusion	f
+cerebral cortex	f
+cerebral hemisphere	f
+cerebral infarction	f
+cerebral malaria	f
+cerebral palsy	f
+cerebrovascular accident	f
+cerebrovascular disease	f
+cervical cancer	f
+chest pain	f
+chickenpox	f
+childhood acute lymphoblastic leukemia	f
+chlamydia	f
+chlamydia trachomatis	f
+chlamydial infection	f
+chlorhexidine	f
+choix	t
+cholangiocarcinoma	f
+cholangitis	f
+cholecystitis	f
+choledocholithiasis	f
+cholelithiasis	f
+cholera	f
+cholestasis	f
+cholesteatoma	f
+chondrocyte	f
+chondrosarcoma	f
+chordoma	f
+chorea	f
+chorioamnionitis	f
+choriocarcinoma	f
+choroid plexus	f
+chromo- some	t
+chromosome	t
+chronic bronchitis	f
+chronic fatigue syndrome	f
+chronic granulomatous disease	t
+chronic hepatitis	f
+chronic hepatitis B	f
+chronic hepatitis C	f
+chronic kidney disease	t
+chronic lymphocytic leukemia	f
+chronic myelogenous leukemia	f
+chronic myeloid leukemia	f
+chronic obstructive lung disease	f
+chronic obstructive pulmonary disease	f
+chronic renal disease	f
+chronic venous insufficiency	f
+ciliary body	f
+circulatory arrest	f
+cirrhosis	f
+citrus	f
+cle	t
+clear cell renal cell carcinoma	f
+cleft lip	f
+cleft palate	f
+clinical depression	f
+clip	t
+clone	t
+clostridia	f
+clostridium perfringens	f
+clostridium tetani	f
+cocaine abuse	f
+codon	t
+coeliac disease	f
+cold	t
+colitis	f
+colon	f
+colon adenocarcinoma	f
+colon cancer	f
+colon carcinoma	f
+colorectal adenocarcinoma	f
+colorectal cancer	f
+colorectal carcinoma	t
+coma	f
+common cold	f
+compartment syndrome	f
+complex regional pain syndrome	f
+con	t
+conduct disorder	f
+confusion	t
+congenital	f
+congenital adrenal hyperplasia	f
+congenital diaphragmatic hernia	f
+congenital heart defects	f
+congenital heart disease	f
+congenital hypothyroidism	f
+congestive heart failure	f
+conjunctiva	f
+conjunctivitis	f
+connective tissue	f
+connective tissue disease	f
+constipation	f
+constrictive pericarditis	f
+contact	t
+contact dermatitis	f
+cor pulmonale	f
+cornea	f
+corneal edema	f
+coronary artery	f
+coronary artery disease	f
+coronary artery stenosis	f
+coronary disease	f
+coronary heart disease	f
+coronary stenosis	f
+coronary syndrome	f
+corpus callosum	f
+cortex	t
+corticosteroid	f
+corynebacterium diphtheriae	f
+cough	f
+coxiella burnetii	f
+crabs	t
+cranial nerve	f
+craniopharyngioma	f
+craniosynostosis	f
+cre	t
+cryoglobulinemia	f
+cryptic	t
+cryptococcosis	f
+cryptorchidism	f
+cryptosporidiosis	f
+cure	t
+cutaneous T-cell lymphoma	f
+cutaneous leishmaniasis	f
+cutaneous melanoma	f
+cyanosis	f
+cyclophosphamide	f
+cystadenoma	f
+cysteine	t
+cystic fibrosis	f
+cysticercosis	f
+cystitis	f
+cystoid macular edema	f
+danio rerio	f
+deafness	t
+degenerative disease	f
+degenerative joint disease	f
+dehydration	f
+delirium	f
+dementia	f
+dementia with Lewy bodies	f
+demyelinating disease	f
+demyelinating polyneuropathy	f
+dendritic cell	f
+dengue fever	f
+dengue hemorrhagic fever	f
+dengue virus	f
+dental caries	f
+dental pulp	f
+depression	f
+dermatitis	f
+dermatomyositis	f
+dermis	f
+descending colon	f
+di-C	t
+dia- betes	f
+dia- phragm	f
+diabetes	f
+diabetes insipidus	f
+diabetes mellitus	f
+diabetic ketoacidosis	f
+diabetic macular edema	f
+diabetic neuropathy	f
+diabetic retinopathy	f
+diamine	t
+diaphragm	f
+diaphragmatic hernia	f
+diarrhea	f
+diarrhoea	f
+diclofenac	f
+diencephalon	f
+diffuse large B-cell lymphoma	f
+digestive system	f
+dilated cardiomyopathy	f
+diphtheria	f
+direct	t
+dis- ease	t
+disease	f
+dish	t
+disseminated intravascular coagulation	f
+diverticulitis	f
+don	t
+drug	t
+drug dependence	t
+dry mouth	f
+duct	t
+ductal carcinoma in situ	f
+duodenal ulcer	f
+duodenum	f
+dysentery	f
+dyslexia	f
+dyslipidemia	f
+dyspepsia	f
+dysphagia	f
+dyspnea	f
+dysthymia	f
+dystonia	f
+dysuria	f
+ear	t
+early gastric cancer	f
+eating disorder	f
+echinococcosis	f
+eclampsia	f
+ectoderm	f
+ectopic pregnancy	f
+eczema	f
+edema	f
+edited	t
+embryonal carcinoma	f
+empyema	f
+encephalitis	f
+encephalitozoon cuniculi	f
+encephalomyelitis	f
+encephalopathy	f
+end stage renal disease	f
+end-stage renal disease	f
+end-stage renal failure	f
+endocarditis	f
+endocardium	f
+endocrine cell	f
+endocrine pancreas	f
+endocrine system	f
+endoderm	f
+endometrial adenocarcinoma	f
+endometrial cancer	f
+endometrial carcinoma	f
+endometriosis	f
+endometritis	f
+endometrium	f
+endophthalmitis	f
+endothelial cell	f
+engineered	t
+enhancer	f
+enterovirus	f
+enzymatic	f
+eosinophil	f
+eosinophilia	f
+epidermal cell	f
+epidermoid carcinoma	f
+epididymis	f
+epiglottis	f
+epilepsy	f
+episome	f
+epistaxis	f
+epithelial cell	f
+epithelial-cell	f
+epithelioma	f
+epithelium	f
+epitope	f
+erectile dysfunction	f
+ers	t
+esophageal atresia	f
+esophageal cancer	f
+esophageal carcinoma	f
+esophageal varices	f
+esophagitis	f
+esophagus	f
+esotropia	f
+ess	t
+essential hypertension	f
+essential thrombocythemia	f
+essential tremor	f
+est	t
+ester	t
+ether	f
+exocrine pancreas	f
+exon	f
+exophthalmos	f
+external ear	f
+extraocular muscle	f
+eye	t
+eye disease	f
+eyelid	f
+face	t
+facial palsy	f
+facial paralysis	f
+faint	t
+falciparum malaria	f
+fallopian tube	f
+familial Mediterranean fever	f
+familial adenomatous polyposis	f
+familial hypercholesterolemia	t
+fat cell	f
+fatigue	f
+fatty liver disease	f
+female reproductive system	f
+fever	t
+fibroadenoma	f
+fibroma	f
+fibromyalgia	f
+fibrosarcoma	f
+fibrous dysplasia	f
+filariasis	f
+fim	t
+flavivirus	f
+flu	t
+focal epilepsy	f
+focal segmental glomerulosclerosis	f
+follicular lymphoma	f
+food allergy	f
+foraminifera	f
+foreign	t
+formaldehyde	f
+forward	t
+fragile X syndrome	f
+francisella tularensis	f
+fre	t
+free	t
+frontal lobe	f
+frontotemporal dementia	f
+frontotemporal lobar degeneration	f
+fungi	f
+fusion	t
+gall bladder	f
+gallbladder	f
+gallbladder cancer	f
+gallus gallus	f
+gamete	f
+ganglion	f
+gap	t
+gastric adenocarcinoma	f
+gastric cancer	f
+gastric carcinoma	f
+gastric ulcer	f
+gastritis	f
+gastroenteritis	f
+gastroesophageal reflux	f
+gastroesophageal reflux disease	f
+gastrointestinal bleeding	f
+gastrointestinal disease	f
+gastrointestinal hemorrhage	f
+gastrointestinal stromal tumor	f
+gastroparesis	f
+gastroschisis	f
+gene	t
+generalized anxiety disorder	f
+genetic disease	f
+genetic disorder	f
+genital herpes	f
+genital warts	f
+genotype	f
+germ cell	f
+germ layer	f
+germ-cell	f
+gestational diabetes	f
+gestational diabetes mellitus	f
+gestational hypertension	f
+giant cell arteritis	f
+giant cell tumor	f
+giardiasis	f
+gingiva	f
+gingival recession	f
+gingivitis	f
+gist	t
+gland	f
+glaucoma	f
+glial cell	f
+glioblastoma multiforme	f
+glomerulonephritis	f
+glomerulosclerosis	t
+glottis	f
+glucose intolerance	f
+glutamic acid	f
+glutamine	f
+glycine	f
+goiter	f
+goitre	f
+gonad	f
+gonorrhea	f
+gout	f
+gouty arthritis	f
+granulocyte	f
+granulocytopenia	f
+granulomatous inflammation	f
+gray matter	f
+group	t
+gynecomastia	f
+haemophilus ducreyi	f
+hairy cell leukemia	f
+haplotype	f
+hard palate	f
+hay fever	f
+head	t
+head and neck cancer	f
+head and neck squamous cell carcinoma	f
+headache	f
+heart	f
+heart attack	f
+heart disease	f
+heart failure	f
+hemangioma	f
+hematemesis	f
+hematologic malignancy	f
+hematoma	f
+hematopoietic cell	f
+hematopoietic system	f
+hematuria	f
+hemiplegia	f
+hemochromatosis	f
+hemoglobinopathies	f
+hemoglobinuria	f
+hemolysis	f
+hemolytic anemia	f
+hemolytic uremic syndrome	f
+hemophilia A	t
+hemorrhage	f
+hepatic disease	f
+hepatic encephalopathy	f
+hepatic necrosis	f
+hepatitis	f
+hepatitis A	f
+hepatitis B	f
+hepatitis B infection	f
+hepatitis B virus	f
+hepatitis C	t
+hepatitis C infection	f
+hepatitis E virus	f
+hepatitis-B virus	f
+hepatoblastoma	f
+hepatocellular carcinoma	f
+hepatocyte	f
+hepatoma	f
+hepatomegaly	f
+herpes simplex	f
+herpes zoster	f
+hexamethylene diisocyanate	f
+hexitol	f
+hiatal hernia	f
+high blood pressure	f
+histidine	f
+histiocytosis	f
+histone modification	f
+histoplasmosis	f
+homologous	f
+hops	t
+human immunodeficiency virus	f
+hydatid disease	f
+hydatidiform mole	f
+hydatidosis	f
+hydrazide	f
+hydrocephalus	f
+hydronephrosis	f
+hydroxysteroid	f
+hyperactivity	f
+hyperalgesia	f
+hyperandrogenism	f
+hyperbilirubinemia	f
+hypercalcemia	f
+hypercortisolism	f
+hyperglycemia	f
+hyperhidrosis	f
+hyperhomocysteinemia	f
+hyperinsulinemia	f
+hyperinsulinism	f
+hyperkeratosis	f
+hyperlipidaemia	f
+hyperopia	f
+hyperostosis	f
+hyperparathyroidism	f
+hyperphosphatemia	f
+hyperpigmentation	f
+hyperprolactinemia	f
+hypersensitivity	f
+hypertension	f
+hypertensive disease	f
+hyperthermia	f
+hyperthyroidism	f
+hypertrophic cardiomyopathy	f
+hyperuricemia	f
+hyperventilation	f
+hypodermis	f
+hypogammaglobulinemia	f
+hypoglycaemia	f
+hypoglycemia	f
+hypogonadism	f
+hypogonadotropic hypogonadism	f
+hypokalemia	f
+hypokinesia	f
+hyponatremia	f
+hypoparathyroidism	f
+hypophosphatemia	f
+hypopituitarism	f
+hypoplastic left heart syndrome	f
+hypospadias	f
+hypotension	f
+hypotensive	f
+hypothalamus	f
+hypothermia	f
+hypothyroidism	f
+hypoventilation	f
+hypoxemia	f
+ichthyosis	f
+idiopathic pulmonary fibrosis	f
+idiopathic scoliosis	f
+idiopathic thrombocytopenic purpura	f
+ild	t
+ileum	f
+ileus	f
+immune system	f
+immune thrombocytopenia	f
+impotence	f
+in- testine	f
+inborn errors of metabolism	f
+increased body weight	f
+indigestion	f
+infectious disease	f
+infectious mononucleosis	f
+infective endocarditis	f
+infertility	f
+inflammation	f
+inflammatory bowel disease	f
+influenza	f
+influenza A virus	f
+inguinal hernia	f
+inosine	f
+inser- tion	t
+insertion	t
+insertion sequence	t
+insomnia	f
+insulin-dependent diabetes mellitus	f
+insulinoma	f
+integron	t
+intellectual disability	f
+intermittent claudication	f
+interstitial cystitis	f
+interstitial lung disease	f
+interstitial nephritis	f
+interventricular septum	f
+intes- tine	f
+intestinal disease	f
+intestinal obstruction	f
+intestine	f
+intracranial aneurysm	f
+intracranial hypertension	f
+intrahepatic cholangiocarcinoma	f
+intrahepatic cholestasis	f
+intron	t
+intussusception	f
+invasive aspergillosis	f
+invasive ductal carcinoma	f
+ion	t
+iris	t
+iron deficiency anemia	f
+irritable bowel syndrome	f
+ischemia	f
+ischemic encephalopathy	f
+ism	t
+isoleucine	f
+jaundice	f
+jejunum	f
+juvenile idiopathic arthritis	f
+juvenile rheumatoid arthritis	f
+keratinocyte	f
+keratitis	f
+keratoconjunctivitis	f
+keratoconus	f
+keratopathy	f
+ketone	t
+ketoprofen	f
+kidney	f
+kidney cancer	f
+kidney disease	f
+kidney failure	f
+kidney stones	f
+lacrimal gland	t
+lactic acidosis	f
+lactone	t
+lameness	f
+lamin A	t
+lamina	t
+large intestine	f
+laryngeal carcinoma	f
+larynx	f
+learning disability	f
+left bundle branch block	f
+legionella pneumophila	f
+leiomyoma	f
+leiomyosarcoma	f
+leishmaniasis	f
+lentivirus	f
+lepromatous leprosy	f
+leprosy	f
+leptospirosis	f
+lethargy	f
+leucine	f
+leucopenia	f
+leukemia	f
+leukocyte	f
+leukocytosis	f
+leukopenia	f
+lichen planus	f
+lidocaine	f
+limb	f
+limb ischemia	f
+linear	t
+lip	t
+lipid	t
+lipodystrophy	f
+lipoma	f
+liposarcoma	f
+listeria monocytogenes	f
+listeriosis	f
+liver	f
+liver cancer	f
+liver cirrhosis	f
+liver disease	f
+long QT syndrome	f
+long bone	f
+lord	t
+low blood pressure	f
+lung	f
+lung adenocarcinoma	f
+lung cancer	f
+lung carcinoma	f
+lung disease	f
+lupus	f
+lupus erythematosus	f
+lupus nephritis	f
+lymph	f
+lymph node	f
+lymph-node	f
+lymphadenitis	f
+lymphangioma	f
+lymphatic filariasis	f
+lymphedema	f
+lymphoblastic leukemia	f
+lymphocyte	f
+lymphoid tissue	f
+lymphoma	f
+lymphopenia	f
+lymphoproliferative disease	f
+lymphoproliferative disorder	f
+lymphosarcoma	f
+lysine	f
+mRNA	t
+macroglobulinemia	f
+macrophage	f
+macular degeneration	f
+macular edema	f
+macular hole	f
+major depressive disorder	f
+malaria	f
+male infertility	f
+male reproductive system	f
+maleic anhydride	f
+malignant fibrous histiocytoma	f
+malignant glioma	f
+malignant hyperthermia	f
+malignant lymphoma	f
+malignant melanoma	f
+malignant mesothelioma	f
+malignant neoplasm	f
+malignant pleural mesothelioma	f
+malignant tumor	f
+mammalia	f
+mammary cancer	f
+mammary carcinoma	f
+mammary tumor	f
+mandible	f
+mannitol	f
+mantle cell lymphoma	f
+march	t
+mast cell	f
+mastitis	f
+match	t
+measles	f
+mec	t
+mediastinitis	f
+medullary thyroid carcinoma	f
+medulloblastoma	f
+melanocyte	f
+melanoma	f
+melena	f
+melioidosis	f
+melphalan	f
+membranous nephropathy	f
+meningioma	f
+meningitis	f
+meningoencephalitis	f
+mental retardation	f
+meropenem	f
+mesenchymal cell	f
+mesenteric artery	f
+mesentery	f
+mesoderm	f
+metabolic acidosis	f
+metabolic disease	f
+metabolic disorder	f
+metabolic syndrome	f
+methionine	f
+microcephaly	f
+micrognathia	f
+microsatellite	f
+middle ear	f
+migraine	f
+miscarriage	f
+mitochondrial DNA	f
+mitral regurgitation	f
+mitral stenosis	f
+mitral valve disease	f
+mitral valve prolapse	f
+mixture	t
+mol-ecule	t
+molecule	t
+mollusca	f
+mood disorder	f
+mor	t
+morbid obesity	f
+motor neuron	f
+motor neuron disease	f
+motorneuron	f
+mouth	f
+mouth disease	f
+movement disorder	f
+moyamoya disease	f
+mucoepidermoid carcinoma	f
+mucopolysaccharidosis	f
+mucosa	f
+mucositis	f
+multidrug-resistant tuberculosis	f
+multiple myeloma	f
+multiple sclerosis	f
+multiple system atrophy	f
+mumps	f
+mus musculus	f
+muscle cell	f
+muscle wasting	f
+muscle weakness	f
+muscle-cell	f
+muscular atrophy	f
+muscular dystrophy	f
+myasthenia gravis	f
+mycobacterium	t
+mycobacterium leprae	f
+mycobacterium tuberculosis	f
+mycoplasma	f
+mycoplasma pneumoniae	f
+mycoses	f
+mycosis	f
+mycosis fungoides	f
+mydriasis	f
+myelitis	f
+myelodysplastic syndrome	f
+myelofibrosis	f
+myeloid cell	f
+myeloid leukemia	f
+myeloma	f
+myelomeningocele	f
+myelopathy	f
+myocardial infarct	f
+myocardial infarction	f
+myocarditis	f
+myocardium	f
+myoclonus	f
+myoma	f
+myometrium	f
+myopathy	f
+myopia	f
+myositis	f
+nail	t
+narcolepsy	f
+nasal cavity	f
+nasopharyngeal carcinoma	f
+nasopharynx	f
+natural	t
+natural killer cell	f
+nausea	f
+ncRNA	t
+neck	t
+necrosis	f
+necrotizing enterocolitis	f
+necrotizing fasciitis	f
+neisseria gonorrhoeae	f
+neoplasm	f
+neorickettsia sennetsu	f
+neovascular age-related macular degeneration	f
+neovascular glaucoma	f
+nephritis	f
+nephrolithiasis	f
+nephropathy	f
+nephrosis	f
+nephrotic syndrome	f
+nerve	f
+nervous system	f
+nervous-system	f
+neuritis	f
+neuroblastoma	f
+neurocysticercosis	f
+neurodegenerative disease	f
+neurodegenerative disorder	f
+neuroendocrine carcinoma	f
+neuroendocrine tumor	f
+neurofibroma	f
+neurofibromatosis	t
+neurofibromatosis type 1	f
+neurogenic bladder	f
+neurohypophysis	f
+neuroma	f
+neuromuscular disease	f
+neuromyelitis optica	f
+neuron	f
+neuropathy	f
+neurosis	f
+neurotoxicity	f
+neutropenia	f
+nicotine dependence	f
+nipple	f
+nitrogen mustard	f
+noma	t
+non-Hodgkin lymphoma	f
+non-alcoholic fatty liver disease	f
+non-insulin-dependent diabetes mellitus	f
+non-small cell lung cancer	f
+non-small cell lung carcinoma	f
+non-small-cell lung cancer	f
+nonalcoholic fatty liver disease	f
+nose	t
+nuclear localization signal	t
+nucleic acid	f
+obesity	f
+obsessive compulsive disorder	f
+obsessive-compulsive disorder	f
+obstructive jaundice	f
+obstructive sleep apnea	f
+obstructive sleep apnea syndrome	f
+occipital lobe	f
+ocular hypertension	f
+olfactory nerve	f
+oligodendroglioma	f
+oligohydramnios	f
+oliguria	f
+onchocerciasis	f
+open-angle glaucoma	f
+operon	f
+ophthalmoplegia	f
+oppositional defiant disorder	f
+optic atrophy	f
+optic chiasma	f
+optic neuritis	f
+optic neuropathy	f
+oral cavity	f
+oral squamous cell carcinoma	f
+orf	t
+organ	f
+organic acid	t
+oropharyngeal cancer	f
+oropharynx	f
+orphan	t
+osteitis	f
+osteoarthritis	f
+osteoarthrosis	f
+osteogenesis imperfecta	f
+osteogenic sarcoma	f
+osteomalacia	f
+osteomyelitis	f
+osteonecrosis	f
+osteopetrosis	f
+osteoporosis	f
+osteosarcoma	t
+otitis media	f
+otosclerosis	f
+ovarian cancer	f
+ovarian carcinoma	f
+ovarian hyperstimulation syndrome	f
+ovary	f
+p-Cl	t
+pCl	t
+pain	t
+pain syndrome	f
+palladium	f
+pallor	f
+pancreas	f
+pancreatic adenocarcinoma	f
+pancreatic cancer	f
+pancreatic carcinoma	f
+pancreatic duct	f
+pancreatic ductal adenocarcinoma	f
+pancreatic tumor	f
+pancreatitis	f
+pancytopenia	f
+panic disorder	f
+panniculitis	f
+papillary carcinoma	f
+papillary thyroid carcinoma	f
+papilledema	f
+papilloma	f
+papillomatosis	f
+paraganglioma	f
+paralysis	f
+paraplegia	f
+parasitemia	f
+parathyroid adenoma	f
+parathyroid gland	f
+parietal lobe	f
+parotid gland	f
+partial epilepsy	f
+pasteurella multocida	f
+patella	f
+patent ductus arteriosus	f
+patent foramen ovale	f
+pelvic inflammatory disease	f
+pemphigus	f
+pemphigus vulgaris	f
+penicillin	f
+penis	f
+peptic ulcer disease	f
+pericardial effusion	f
+pericarditis	f
+pericardium	f
+periodontal disease	f
+periodontitis	f
+peripheral artery disease	f
+peripheral nervous system	f
+peripheral neuropathy	f
+peripheral vascular disease	f
+peritoneal cavity	f
+peritoneum	f
+peritonitis	f
+periventricular leukomalacia	f
+pernicious anemia	f
+personality disorder	f
+pertussis	f
+pes	t
+phagocyte	f
+pharyngitis	f
+pharynx	f
+phenobarbital	f
+phenols	t
+phenotype	f
+phenylalanine	f
+phenylketonuria	f
+phenytoin	f
+pheochromocytoma	f
+phlebitis	f
+photophobia	f
+phthalic anhydride	f
+pigment cell	f
+pinna	f
+piperacillin	f
+pit	t
+pituitary adenoma	f
+pituitary gland	f
+placenta	f
+placental	t
+placental abruption	f
+plague	f
+plasma cell	f
+plasmacytoma	f
+plasmid	f
+plasmodium falciparum	f
+platelet	f
+pleomorphic adenoma	f
+pleura	f
+pleural cavity	f
+pleural effusion	f
+pleurisy	f
+pneumoconiosis	f
+pneumonia	f
+pneumonitis	f
+pneumothorax	f
+poliomyelitis	f
+polyamine	t
+polyarteritis nodosa	f
+polycystic kidney disease	f
+polycystic ovarian syndrome	f
+polycystic ovary syndrome	f
+polycythemia	f
+polycythemia vera	f
+polydactyly	f
+polydipsia	f
+polygonal cell	f
+polyhydramnios	f
+polyneuropathy	f
+polypeptide	t
+polyuria	f
+porphyria	f
+portal hypertension	f
+portal vein	f
+portal vein thrombosis	f
+post-traumatic stress disorder	f
+postpartum depression	f
+posttraumatic stress disorder	f
+pre-diabetes	f
+pre-eclampsia	f
+prediabetes	f
+predicted	t
+preeclampsia	f
+premature ovarian failure	f
+pressure sores	f
+pressure ulcer	f
+priapism	f
+primary aldosteronism	f
+primary biliary cirrhosis	f
+primary breast cancer	f
+primary cancer	f
+primary hyperparathyroidism	f
+primary liver cancer	f
+primary open-angle glaucoma	f
+primary pulmonary hypertension	f
+primary sclerosing cholangitis	f
+primer	t
+prion disease	f
+probe	t
+proctitis	f
+progressive multifocal leukoencephalopathy	f
+progressive supranuclear palsy	f
+proliferative diabetic retinopathy	f
+proliferative vitreoretinopathy	f
+proline	t
+proptosis	f
+prostate adenocarcinoma	f
+prostate cancer	f
+prostate carcinoma	f
+prostate gland	f
+prostatic cancer	f
+prostatic hypertrophy	f
+prostatitis	f
+proteinuria	f
+proteobacteria	f
+psoriasis	f
+psoriatic arthritis	f
+psychotic disorder	f
+pterygium	f
+ptosis	f
+pulmonary artery	f
+pulmonary edema	f
+pulmonary embolism	f
+pulmonary embolus	f
+pulmonary emphysema	f
+pulmonary fibrosis	f
+pulmonary hypertension	f
+pulmonary tuberculosis	f
+pulmonary vein	f
+purpura	f
+pyelonephritis	f
+pylorus	f
+pyoderma gangrenosum	f
+quadriplegia	f
+quinidine	f
+rRNA	f
+rabies	f
+radiculopathy	f
+rales	t
+ranitidine	f
+rash	f
+rattus norvegicus	f
+re- gion	t
+reactive arthritis	f
+read	t
+reagent	t
+rectal cancer	f
+rectum	f
+reflux esophagitis	f
+refractive error	f
+region	t
+regulon	t
+relapsing-remitting MS	f
+relapsing-remitting multiple sclerosis	f
+remark	t
+renal artery	f
+renal cancer	f
+renal carcinoma	f
+renal cell carcinoma	f
+renal failure	f
+renal fibrosis	f
+renal tubular acidosis	f
+renovascular hypertension	f
+reproductive system	f
+rescue	t
+respiratory distress	f
+respiratory failure	f
+respiratory system	f
+respiratory tract	f
+restless legs syndrome	f
+retina	f
+retinal degeneration	f
+retinal detachment	f
+retinal vein occlusion	f
+retinitis	f
+retinitis pigmentosa	f
+retinoblastoma	f
+retinopathy of prematurity	f
+rhabdomyosarcoma	f
+rheumatic disease	f
+rheumatic fever	f
+rheumatic heart disease	f
+rheumatoid arthritis	f
+rhinitis	f
+rhinosinusitis	f
+ribozyme	f
+rickets	f
+rickettsia conorii	f
+rickettsia felis	f
+rickettsia prowazekii	f
+rickettsia typhi	f
+right bundle branch block	f
+rocuronium	f
+role	t
+root resorption	f
+rosacea	f
+rss	t
+rst	t
+rts	t
+rubella	f
+rubella virus	f
+sac	t
+salivation	f
+salmonella	f
+salmonella enterica	f
+salmonellosis	f
+salt	t
+sarcoidosis	f
+sarcoma	f
+scabies	f
+scalp	f
+sch	t
+schistosomiasis	f
+schizoaffective disorder	f
+schizophrenia	f
+schwannoma	f
+sciatic nerve	f
+scid	t
+scleroderma	f
+sclerosing cholangitis	f
+scoliosis	f
+score	t
+scrapie	f
+scrotum	f
+secondary hyperparathyroidism	f
+secretory cell	f
+seizures	f
+selenocysteine	f
+seminal vesicle	f
+seminoma	f
+sense organ	f
+sensorineural hearing loss	f
+sensory neuropathy	f
+sensory system	f
+sepsis	f
+septic arthritis	f
+serine	t
+severe acute respiratory syndrome	f
+severe combined immunodeficiency	f
+severe obesity	f
+severe preeclampsia	f
+sexual dysfunction	f
+shigella boydii	f
+shigella dysenteriae	f
+shigella flexneri	f
+shigella sonnei	f
+shingles	f
+shock	t
+short bowel syndrome	f
+short stature	f
+siRNA	f
+sickle cell anemia	f
+sigmoid colon	f
+signal peptide	t
+silencer	t
+silicosis	f
+simplex virus	f
+single	t
+sinusitis	f
+situs inversus	f
+skin cancer	f
+skin disease	f
+skin disorder	f
+skin inflammation	f
+skull	f
+sleep apnea	f
+sleep disorder	f
+small cell carcinoma	f
+small intestine	f
+smallpox	f
+smooth muscle cell	f
+social phobia	t
+sod	t
+sodium salt	t
+somatic cell	f
+somatic stem cell	f
+somatic-cell	f
+spasticity	f
+sperm	f
+spina bifida	f
+spinal cord	f
+spinal muscular atrophy	t
+spinal stenosis	f
+spleen	f
+splenocyte	t
+splenomegaly	f
+spondylitis	f
+spondylolisthesis	f
+spondylosis	f
+spontaneous abortion	f
+sputum	f
+squamous carcinoma	f
+squamous cell cancer	f
+squamous cell carcinoma	f
+squamous cell carcinoma of the head and neck	f
+squamous epithelium	f
+staphylococcus	f
+staphylococcus aureus	f
+status	t
+status epilepticus	f
+stem cell	t
+stem-cell	t
+sternum	f
+steroid	t
+stom- ach	f
+stomach	f
+stomach cancer	f
+stomatitis	f
+strabismus	t
+streptococcus	f
+streptococcus pneumoniae	f
+streptococcus pyogenes	f
+stridor	f
+stroke	f
+stromal cell	f
+stuttering	f
+submandibular gland	f
+substance abuse	f
+substance dependence	f
+succinylcholine	f
+sudden infant death syndrome	f
+sulfamethoxazole	f
+sulfasalazine	f
+sulfide	f
+sulfonamide	f
+superior mesenteric artery	f
+syn- drome	t
+syncope	t
+syndactyly	f
+syndrome	t
+synostosis	f
+synovial sarcoma	f
+synovitis	f
+syphilis	f
+syringomyelia	f
+systemic lupus erythematosus	f
+systemic sclerosis	f
+t his	t
+t-RNA	t
+tRNA	t
+tachycardia	f
+tachypnea	f
+taenia	f
+tag	t
+tam	t
+tandem	t
+telangiectasia	f
+telencephalon	f
+telomerase RNA	f
+telomere	t
+temporal lobe	f
+temporal lobe epilepsy	f
+tenosynovitis	f
+teratoma	f
+terminator	t
+testicular cancer	f
+testis	f
+tetanus	f
+tetralogy of Fallot	f
+tetraplegia	f
+thalassemia	f
+thi s	t
+thiopental	f
+this	t
+threonine	t
+throat	f
+thrombocytopenia	f
+thrombocytosis	f
+thrombophilia	f
+thrombophlebitis	f
+thrombosis	f
+thrombotic thrombocytopenic purpura	f
+thrush	f
+thymoma	f
+thymus	f
+thyroid cancer	f
+thyroid carcinoma	f
+thyroid gland	f
+thyroiditis	f
+thyrotoxicosis	f
+tick-borne encephalitis	f
+tics	t
+tinnitus	f
+tissue	t
+tongue	t
+tonsil	f
+tonsillitis	f
+toxic shock syndrome	f
+toxoplasma	f
+toxoplasmosis	f
+trachea	f
+tracheal stenosis	f
+trachoma	f
+transgene	f
+transgenic	f
+transient ischemic attack	f
+transient ischemic attacks	f
+transitional cell carcinoma	f
+translocation	t
+transverse colon	f
+tremor	f
+treponema pallidum	f
+trichomoniasis	f
+tricuspid regurgitation	f
+trigeminal nerve	f
+trigeminal neuralgia	f
+trimellitic anhydride	f
+trimethoprim	f
+trypanosomiasis	f
+tryptophan	f
+tube	t
+tuberculosis	f
+tuberous sclerosis	f
+tularemia	f
+type 1 diabetes mellitus	f
+type 2 diabetes mellitus	f
+type I diabetes	f
+type II diabetes	f
+type II diabetes mellitus	f
+typhoid	f
+typhoid fever	f
+tyrosine	f
+ulcerative colitis	f
+unipolar depression	f
+unstable angina	f
+uremia	f
+ureter	f
+ureteral obstruction	f
+urethra	f
+urethral stricture	f
+urethritis	f
+urinary bladder	f
+urinary incontinence	f
+urinary retention	f
+urinary tract infection	f
+urticaria	f
+uterine cancer	f
+uterine cervix	f
+uterus	f
+uveal melanoma	f
+uveitis	f
+vaccinia	f
+vaccinia virus	f
+vagina	f
+vaginal discharge	f
+vaginitis	f
+vagus nerve	f
+validated	t
+valine	t
+valve	t
+valvular heart disease	f
+varicella	f
+varices	f
+varicocele	f
+varicose veins	f
+vascular dementia	f
+vascular disease	f
+vascular system	f
+vasculature	f
+vasculitis	f
+vein	t
+vena cava	f
+venous insufficiency	f
+ventricular fibrillation	f
+ventricular septal defect	f
+ventricular tachycardia	f
+vertebral column	f
+vertigo	t
+vesicoureteral reflux	f
+vessel	t
+vestibular schwannoma	f
+vestibular system	f
+vibrio cholerae	f
+viral disease	f
+viral hepatitis	f
+viral infection	f
+virus infection	f
+viruses	f
+visceral leishmaniasis	f
+visual cortex	f
+vitamin B12 deficiency	f
+vitiligo	f
+volvulus	f
+vomiting	f
+von Willebrand disease	f
+wasting	t
+weakness	t
+wed	t
+wee	t
+weight loss	f
+weight-loss	f
+whooping cough	f
+wild type	f
+wild- type	t
+wild-type	t
+wildtype	t
+withdrawal syndrome	f
+xeroderma pigmentosum	f
+yellow fever	f
+yersinia pestis	f
+Mycobacterium tuberculosis complex	f
+Pancreatic Cancer	f
+babesiosis	f
+fasciitis	f
+nephrocalcinosis	f
+Abdominal pain	f
+Abortion	f
+Abscess	f
+Acute renal failure	f
+Airborne	f
+Allele	t
+Anatomy	t
+Antisense	f
+Application	t
+Assembly	t
+Autoimmunity	f
+Beta-lactam	t
+C-terminal region	t
+CDs	t
+CONGENITAL	f
+CRISPR	t
+CaP	t
+Carbohydrate	t
+Cation	t
+CdS	t
+Chronic pain	f
+Circular	t
+Cognitive Impairment	f
+Cognitive impairment	f
+Consensus	t
+Conserved	t
+Corticosteroid	f
+Cough	f
+D-loop	t
+Deletion	t
+Digit	t
+Dilatation	f
+Discharge	t
+Duplication	t
+Engineered	t
+Enzymatic	t
+Epitope	f
+Exon	f
+Fever	f
+Foreign	t
+Genome	t
+Genomic DNA	t
+Genotype	t
+Haplotype	t
+Headache	f
+Hernia	f
+Herpes zoster	f
+Hyperthermia	f
+Indirect	t
+Intermediate	t
+Inversion	f
+Ligament	f
+Linear	t
+Loss of heterozygosity	f
+Mechanical	t
+Microsatellite	t
+Mitral valve	f
+Mobile	t
+Molecule	t
+N-terminal region	t
+Natural	t
+Overlapping	t
+PCR product	t
+Pharmaceutical	t
+Phenotype	t
+Promoter	t
+Prostate Symptom	f
+QTL	t
+ROLE	t
+Reciprocal	t
+Regulated	t
+Rescue	t
+Reverse	t
+Seizure	f
+Sequence	t
+Sequence comparison	t
+Substitution	t
+Symptom	t
+TATA box	t
+Transcript	t
+Transgenic	t
+Transition	t
+Tryptophan	t
+Tyrosine	t
+Validated	t
+Valve	f
+Weight gain	f
+abdominal discomfort	f
+abdominal mass	f
+acinar cell	f
+acute gastroenteritis	f
+acute pain	f
+acute renal failure	f
+afebrile	f
+airborne	t
+alkaloid	t
+alpha-helix	t
+altered mental status	f
+alternatively spliced	t
+amino acid substitution	t
+anaphylactic shock	f
+anatomy	t
+aneuploid	t
+anorexia	f
+antisense RNA	t
+apathy	f
+aptamer	t
+arterial thrombosis	f
+assembly	t
+asthenia	f
+autoimmunity	f
+autosomal dominant inheritance	f
+autosomal recessive inheritance	f
+azotemia	f
+barbiturates	t
+base pair	t
+basilar artery	f
+beta-lactam	t
+beta-turn	t
+biliary tree	f
+binding site	t
+bone pain	f
+bone tissue	f
+candidate gene	t
+capped	t
+carbapenems	f
+cardiogenic shock	f
+cartilage tissue	f
+cauda equina	f
+cavernous sinus	f
+cell layer	t
+cerebellopontine angle	f
+cerebral ischemia	f
+cervical lymphadenopathy	f
+chest wall	f
+chills	f
+chloroplast DNA	f
+chromosomal translocation	f
+chronic cough	f
+chronic pain	f
+circular	t
+claudication	f
+co-trimoxazole	f
+coagulopathy	f
+cognitive impairment	f
+coiled-coil	t
+colic	f
+common bile duct	f
+congestion	f
+consensus	t
+conserved	t
+conserved region	t
+contig	t
+convulsion	f
+copy number variation	t
+cosmid	t
+cotrimoxazole	f
+cytopenia	f
+deletion	t
+digit	t
+dilatation	f
+discharge	t
+disorientation	f
+dizziness	f
+double	t
+drowsiness	f
+duplication	t
+dysarthria	f
+dyspareunia	f
+dysphonia	f
+enteritis	t
+epicardium	f
+epidural space	f
+epoxide	t
+eukaryotic cell	f
+exemplar	t
+exhaustion	t
+experimentally determined	t
+facial nerve	f
+failure to thrive	f
+femoral nerve	f
+femoral vein	f
+flanked	t
+flanking region	t
+flushing	t
+foramen magnum	f
+fragmentary	t
+frameshift	t
+frontal sinus	f
+furans	f
+fusion gene	t
+gangrene	t
+gene fragment	t
+gene fusion	t
+generalized seizures	f
+genetic marker	t
+genome	t
+genomic DNA	t
+genomic clone	t
+gross hematuria	f
+growth delay	f
+hair loss	f
+halide	t
+hearing impairment	f
+heartburn	f
+hematogenous	f
+hemiparesis	f
+hemodynamic instability	f
+hemoptysis	f
+hepatic dysfunction	f
+hepatosplenomegaly	f
+hernia	f
+high fever	f
+hilum	f
+hip pain	f
+hoarseness	f
+hopping	t
+hydroxides	t
+hyperemia	f
+iliac vein	f
+immunodeficiency	f
+in-frame	t
+indirect	t
+inducible promoter	t
+insertion site	t
+insertional	t
+insulator	t
+intergenic region	t
+intermediate	t
+inversion	t
+inverted	t
+inverted repeat	t
+irritability	f
+isoprenoid	t
+itching	f
+joint inflammation	f
+joint pain	f
+junction	t
+knee pain	f
+lactam	t
+laryngeal nerve	f
+ligament	f
+linkage group	t
+lncRNA	t
+long terminal repeat	t
+loss of appetite	f
+loss of consciousness	f
+loss of heterozygosity	f
+loss of vision	f
+low birth weight	f
+low birthweight	f
+low-birth-weight	f
+lower lip	f
+lower respiratory tract	f
+lower urinary tract	f
+main bronchus	f
+malabsorption	f
+malaise	f
+malignant cell	f
+maxillary sinus	f
+mechanical	t
+mediastinum	f
+membrane structure	t
+memory impairment	f
+memory loss	f
+menorrhagia	f
+miRNA	t
+microangiopathy	f
+mite	f
+mitral valve	f
+mobile	t
+mosquito-borne	f
+mucormycosis	f
+mucosa-associated lymphoid tissue	f
+multiple organ failure	f
+muscle pain	f
+muscle tissue	f
+musculoskeletal system	f
+neck pain	f
+neural cell	f
+neural tissue	f
+neurological dysfunction	f
+neuropathic pain	f
+nocturia	f
+non-synonymous	t
+nonsynonymous	t
+nuclear gene	t
+null mutation	t
+nystagmus	f
+oligo	t
+operator	t
+optic tract	f
+orifice	t
+origin of replication	t
+orthologous	t
+osteoid	f
+osteolysis	f
+otitis	f
+overgrowth	t
+overlapping	t
+palpitations	f
+paralogous	t
+paranasal sinus	f
+paresthesia	f
+pelvic mass	f
+peptidyl	f
+perineum	f
+phalanx	t
+pharmaceutical	t
+phosphorylation site	t
+plasmid vector	t
+point mutation	t
+polyadenylated	t
+polyol	t
+polyploid	t
+precursor cell	t
+premature labor	f
+promoter	t
+propeptide	t
+prophage	f
+protein coding	t
+protein-coding	t
+pseudogene	t
+pulmonary infiltrates	f
+pulmonary valve	f
+pupil	t
+purines	t
+pyridines	t
+pyrimidines	t
+rRNA gene	t
+random sequence	t
+rare variant	t
+reactive hyperemia	f
+reading frame	t
+reciprocal	t
+recumbency	f
+recurrent infections	f
+reference genome	t
+regulated	t
+regulatory region	t
+renal insufficiency	f
+renal involvement	f
+renal pelvis	f
+replicon	t
+respiratory insufficiency	f
+response element	t
+restriction fragment	t
+retrotransposon	t
+reverse	t
+rigidity	t
+satellite DNA	t
+scarring	t
+seizure	f
+septic shock	f
+septicemia	f
+septum	f
+sequence	t
+sequence comparison	t
+sequence motif	t
+severe headache	f
+severe pneumonia	f
+shRNA	t
+shoulder pain	f
+signature	t
+silenced	t
+skin lesion	f
+sneezing	f
+soft palate	f
+spermatic cord	f
+splenic artery	f
+splice site	t
+start codon	t
+stem-loop	t
+sterol regulatory element	t
+stillbirth	f
+stop codon	t
+stress incontinence	f
+subclavian artery	f
+substitution	t
+sulcus	f
+sulfone	t
+surface structure	t
+symptom	t
+synonymous	t
+syntenic	t
+tandem duplication	t
+tandem repeat	t
+third ventricle	t
+thirst	f
+thoracic cavity	f
+tibial nerve	f
+tick-borne	f
+tiredness	f
+torticollis	f
+toxemia	f
+transcript	t
+transcriptionally regulated	t
+transition	t
+transmembrane helix	t
+transposable element	t
+transversion	t
+tricuspid valve	f
+tympanic membrane	f
+underweight	f
+upper lip	f
+upper respiratory tract	f
+urge incontinence	f
+vector-borne	t
+venous sinus	f
+ventricular arrhythmia	f
+vertebral artery	f
+vision loss	f
+visual impairment	f
+visual loss	f
+weight gain	f
+wheezing	f
+AF	f
+gas	f
+VT	f
