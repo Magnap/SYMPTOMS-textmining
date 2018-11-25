@@ -7,7 +7,7 @@ class Pair():
         self.strength = float(strength)
 
 pairs = []
-with open("output-pairs", newline='') as pair_file:
+with open("output-pairs-full", newline='') as pair_file:
     pair_reader = csv.reader(pair_file, "excel-tab")
     for row in pair_reader:
         pairs.append(Pair(row[0], row[1], row[2]))
@@ -24,7 +24,7 @@ with open("combined_dictionary/combined_names.tsv", newline='') as name_file:
             else:
                 names[entity_id] = set([name])
 
-with open("named-pairs.tsv", 'w', newline='') as f:
+with open("named-pairs-full.tsv", 'w', newline='') as f:
     writer = csv.writer(f, "excel-tab")
     for pair in pairs:
         dis_name_short = sorted(names.get(pair.disease, ["Unnamed disease"]), key=len)[0]

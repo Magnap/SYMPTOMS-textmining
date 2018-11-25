@@ -29,7 +29,7 @@ class Mention():
 
 
 mentions = {}
-with open("output-mentions", newline='') as mention_file:
+with open("output-mentions-full", newline='') as mention_file:
     mention_reader = csv.reader(mention_file, "excel-tab")
     for row in mention_reader:
         pubmed_id = row[0]
@@ -41,7 +41,7 @@ with open("output-mentions", newline='') as mention_file:
                 mentions[term] = Mention()
             mentions[term].add_mention(pubmed_id, entity_id)
 
-with open("blacklist-guide.tsv", "w", newline='') as guide_file:
+with open("blacklist-guide-full.tsv", "w", newline='') as guide_file:
     guide_writer = csv.writer(guide_file, "excel-tab")
     for (term, mention) in mentions.items():
         if len(mention.pubmed_ids) >= 5:
