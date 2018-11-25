@@ -1,9 +1,19 @@
 import owlready2 as o
 import sys
 import os
+import csv
 
 onto_symps = o.get_ontology("file://symp.owl")
 onto_symps.load()
+
+terms = {}
+with open("blacklist-guide-done.tsv", newline='') as guide_file:
+    term_reader = csv.reader(guide_file, "excel-tab")
+    for term in term_reader:
+        if term[0] == "n":
+            count = terms.get(term[1], 0)
+            terms[term[1]] = count + 1
+
 
 dict_dir = "./symptoms_dictionary"
 if not os.path.exists(dict_dir):
@@ -47,13 +57,14 @@ for symp in symps.values():
     for name in symp.names:
         symp_by_name[name] = symp
 
+
 with open('symptoms_entities.tsv','a') as entities_file, \
      open('symptoms_groups.tsv','a') as groups_file, \
      open('symptoms_global.tsv','a') as global_file, \
      open('symptoms_names.tsv','a') as names_file:
     for symp in symps.values():
         for name in symp.names:
-            if len(name) <= 3:
+            if len(name) <= 3 and terms.get(name, 0) < 2:
                 # Don't ignore symptom names 3 chars or less
                 global_file.write(name + "\t" + "f\n")
         for identifier in symp.names + symp.other_ids + [symp.symp_id]:
@@ -64,4 +75,7 @@ with open('symptoms_entities.tsv','a') as entities_file, \
             str(symp.internal_id) + "\t" +
             "-37" + "\t" + # DISCUSS which magic number for symptoms?
             symp.symp_id + "\n") # Canonical ID
+    for term, count in terms.items():
+        if count >= 2:
+            global_file.write(term + "\t" + "t\n")
 

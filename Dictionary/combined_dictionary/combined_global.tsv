@@ -3184,5 +3184,23 @@ visual loss	f
 weight gain	f
 wheezing	f
 AF	f
-gas	f
 VT	f
+gas	t
+fecal	t
+incontinence	t
+stroke	t
+Gas	t
+Fecal	t
+GAS	t
+GAs	t
+gas production	t
+fatigue	t
+weight gain	t
+Stroke	t
+cough	t
+hives	t
+necrosis	t
+dehydration	t
+Depression	t
+difficulty swallowing	t
+icteric	t
